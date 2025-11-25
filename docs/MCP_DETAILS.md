@@ -1,7 +1,7 @@
 # MCP Details — Personal Assistant
 
 Summary
-- This document summarizes the Model-Context-Protocol (MCP) design, integration points, and patterns used by the original Personal Assistant project. The full implementation code and prompt book are intentionally not included in this proxy repository.
+This document summarizes the Model-Context-Protocol (MCP) design, integration points, and patterns used by the original Personal Assistant project. The full implementation code and prompt book are intentionally not included in this repository.
 
 Key Concepts
 - Model: Java Spring Boot application containing services that orchestrate calls to large language models and maintain conversational memory.
@@ -14,7 +14,7 @@ Architecture Integration Points
 - Config: `SpringAiConfig`, `WebClientConfig`, `UserAuthorizationConfig` for credentials and HTTP client setup.
 
 Security & Secrets
-- Secrets and API keys are kept outside this proxy repo. In production, use secret stores (Azure Key Vault or environment variables).
+Secrets and API keys are kept outside this repository. In production, use secret stores (Azure Key Vault or environment variables).
 
 Notes
 - This document describes design and integration; the concrete implementation code resides in the original project and is excluded here.

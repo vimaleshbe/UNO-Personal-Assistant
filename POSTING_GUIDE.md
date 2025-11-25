@@ -11,7 +11,7 @@ Use this guide to capture screenshots and compose a LinkedIn post that demonstra
 - Short headline: "My Personal Assistant architecture and design — proving ownership"
 - One-paragraph summary of purpose and business value.
 - One screenshot of the architecture (export `assets/architecture.svg` to PNG at 1600×800) and one screenshot of `README.md`.
-- Call-to-action: link to this proxy GitHub repo and invite connections to DM for collaboration or demo requests.
+- Call-to-action: link to this GitHub repository and invite connections to DM for collaboration or demo requests.
 
 3) Privacy checklist
 - Confirm no code or prompt text is included in screenshots.

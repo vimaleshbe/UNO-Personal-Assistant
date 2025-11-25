@@ -1,6 +1,6 @@
-# PA-MOCK — Personal Assistant (Proxy Repository)
+# PA-MOCK — Personal Assistant (Documentation Repository)
 
-This repository is a non-code "proxy" project containing documentation, architecture diagram, and publication guidance for the Personal Assistant project. It intentionally contains no application source code or prompt-book contents — only descriptive assets you can publish publicly to prove ownership and show architecture and business context.
+This repository is a non-code documentation project containing documentation, an architecture diagram, and publication guidance for the Personal Assistant project. It intentionally contains no application source code or prompt-book contents — only descriptive assets you can publish publicly to prove ownership and show architecture and business context.
 
 Contents
 - `docs/` — detailed documents (MCP details, business details, framework, architecture)

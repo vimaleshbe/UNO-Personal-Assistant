@@ -1,6 +1,6 @@
 # Framework & Tech Stack
 
-This repository documents the frameworks and libraries used in the original Personal Assistant project. The actual source code is excluded from this proxy.
+This repository documents the frameworks and libraries used in the original Personal Assistant project. The actual source code is excluded from this repository.
 
 Primary stack
 - Language: Java 21 (LTS)

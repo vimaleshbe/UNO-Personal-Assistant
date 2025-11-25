@@ -17,4 +17,4 @@ Privacy & Compliance
 - Offer explicit opt-in/out for long-term memory features.
 
 Non-disclosure / Ownership
-- This proxy repo intentionally contains documentation and diagrams only, to assert ownership and allow public sharing without disclosing proprietary prompts or code.
+This repository intentionally contains documentation and diagrams only, to assert ownership and allow public sharing without disclosing proprietary prompts or code.
